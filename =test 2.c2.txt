@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+// Function Defination
+void greet ()
+{
+    cout << "HAPPY BIRTDAY GOUTHAM"<<endl;
+}
+int main()
+
+{
+    greet() ; // calling the function
+    greet ();
+    greet ();
+    greet ();
+    // body
+    return 0;
+}  

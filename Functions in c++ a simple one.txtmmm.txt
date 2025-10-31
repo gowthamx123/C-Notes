@@ -1,0 +1,41 @@
+// Functions in c++ a simple one
+#include <iostream>
+using namespace std;
+
+// Function Defination
+int add (int a, int b) // passing parameters
+{
+    return a + b;      // Returning the values
+}
+int mul(int a,int b)
+{
+    return a*b;
+}
+int sub (int a,int b)
+{
+    return (a-b);
+    
+}
+
+    float div1 ( int a, int b)
+    {
+        if (b == 0)
+        
+        {
+            cout <<"Divison by zero !!Infinite"<<endl;
+            return 0;
+        }
+        return (float)a / b;
+    }
+int main()
+{
+    cout << "Addition:"<<mul(5,10)<<endl;
+    cout << "Multiplication :"<<mul(5,10)<<endl;
+    cout << "substraction :"<<sub(5,10)<<endl;
+     cout << "Divison :"<<div1(5,10)<<endl;
+    return 0;
+}
+
+
+
+    

@@ -1,0 +1,810 @@
+// Online C++ 
+#include <iostream>
+using namespace std;// Online C++ 
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    int a=10,b=20;
+    cout<<"Addition:"<< a + b<<endl;
+    #include <iostream>
+
+using namespace std;
+int main() {
+    // declare variables
+    string name;
+    int age;
+    float height;
+    double weight;
+char blood_group;    
+    cout <<"enter your name:";
+    cin>>name;
+    
+    cout <<"enter your height(in feet):";
+    cin>>height;
+    
+    cout<<"enter your age:";
+    cin>>age;
+    
+    cout<<"enter your weight(in kgs):";
+    cin>>weight;
+    
+    cout <<"enter your blood group:";
+    cin>>blood_group;
+    
+    return 0;
+}
+    cout<<"substraction:"<<a-b<<endl;
+    //(+,-,*,/,%)
+    return 0;
+}
+
+int main() 
+{
+    int a=10,b=20;
+    cout<<"Addition:"<< a + b<<endl;
+    
+    cout<<"substraction:"<<a-b<<endl;
+    //(+,-,*,/,%)
+    return 0;
+}     
+
+
+***************************************************===
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         #include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         #include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+
+
+
+
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+         
+
+
+
+
+#include <iostream>
+using namespace std;====
+int main()
+{
+    int a;
+    
+        cout << " Enter your age:";
+        cin >> a;
+        
+        if (a>=18)
+        {
+            cout <<"eligible to vote";
+        }
+    else
+    {
+         int years_left =18-a;
+     cout<<" you are not eligible to vote" << endl;
+     cout << " you have to wait for"<<years_left <<"years";
+    }
+         return 0;
+}
+**********************************************************
+         
+
+
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int num1,  num2,num3;
+    cout <<"enter three largest numbers:";
+    cin>>num1>>num2>>num3;
+    
+    //find the largest numbers
+    if (num1>= num2&& num1>=num3)
+    {
+        cout <<  num1 << "is the largest number"<<endl;
+     }
+         else if (num2>=num1&&num2>=num3)
+    {
+        cout <<num2 <<"is the largest number"<<endl;
+    }
+    else
+    {
+        cout <<num3<<"is the largest number"<<endl;
+    }
+      return 0;
+}
+
+*******************************************************
+
+
+
+Loop in c++
+Loops in c++ are used to execute a block of code repeated until a
+certain condition is met. They help in manage repetitive tasks.
+1.for loop:used when the number of iterations is known beforehand.
+2.while loop: used when the number of iterations is not known and depends
+on a condition.
+3.do-while loops: similar to the while loop, but guarantees that the block
+of code will be executed at least once before checking the condition 
+
+
+***************************************************************
+
+
+
+Functions in c++.
+A function in c++ is a group of statements that performs a specific task
+and can be reused anywhere in the program.
+
+
+1.Reusability - write once, use many times.
+2.Readability - code becomes easier to read and understand.
+3.Debugging - 
+4.Modularity -
+5--
+*******************************************************************
+
+
+
+
+#include <iostream>
+using namespace std;
+int main() 
+{
+    int day ;
+    cout << "Enter a number (1-7) corresponding to the week:";
+    cin >> day;
+    // switch statemant to determine the day of the week
+    switch (day)
+    {
+        case 1:
+        cout << "Monday" <<endl;
+        break;
+    
+        case 2:
+        cout << "Tuesday" <<endl;
+        break;
+    
+        case 3:
+        cout << "Wednesday" <<endl;
+        break;
+    
+        case 4:
+        cout << "Thursday" <<endl;
+        break;
+    
+       case 5:
+        cout << "Friday" << endl;
+        break;
+   
+       case 6:
+        cout << "Saturday" <<endl;
+        break;
+   
+       case 7:
+        cout << "Sunday" << endl;
+        break;
+        
+        default:
+        cout << "Invalid input! please enter a number between 1and 7" <<endl;
+        break;
+    }
+    return 0;
+}
+*******************************************************************************
+
+
+
+
+#include <iostream>
+using namespace std;
+int main() 
+{
+    char day ;
+    cout << "Enter a number (M,T,W,H,F,S,Y) corresponding to the week:";
+    cin >> day;
+    // switch statemant to determine the day of the week
+    switch (day)
+    {
+        case 'M':
+        cout << "Monday" <<endl;
+        break;
+    
+        case 'T':
+        cout << "Tuesday" <<endl;
+        break;
+    
+        case 'W':
+        cout << "Wednesday" <<endl;
+        break;
+    
+        case 'H':
+        cout << "Thursday" <<endl;
+        break;
+    
+       case 'F':
+        cout << "Friday" << endl;
+        break;
+   
+       case 'S':
+        cout << "Saturday" <<endl;
+        break;
+   
+       case 'Y':
+        cout << "Sunday" << endl;
+        break;
+        
+        default:
+        cout << "Invalid input! please enter a number between M,T,W,H,F,S,Y" <<endl;
+        break;
+    }
+    return 0;
+}
+***************************************************************
+
+
+
+#include <iostream>
+using namespace std;
+class car{
+    string brand;
+    string model;
+    int price;
+    int year;
+    };
+    
+int main() {
+    car car1;// Creating an object of the class
+    car1.brand ="BMW";
+    car1.model ="B-class";
+    car1.year =2024;
+    car1.price =5000000;
+    return 0;
+}    
+**********************************************************
+
+
+#include <iostream>
+using namespace std;
+    
+class car
+{
+    public: // public Access specifier
+    string brand;
+    string model;
+    int price;
+    int year;
+    
+    //function to display the output
+    void display()
+    {
+        cout << "Brand Name"<<brand<<endl;
+        cout << "Model Nme"<<model<<endl;
+        cout << "Price"<<price<<endl;
+        cout << "Year Of Manufacuring"<<year<<endl;
+    }
+};    
+
+int main()
+{
+    
+    car car1; // creating an object of the 
+    cout <<" enter the brand name:" <<endl;
+    // cin >> car1.brand;
+    getline (cin,car1. brand);
+    cout <<"enter the model name:"<<endl;
+    getline (cin,car1. model);
+    cout <<" enter the price:"<<endl;
+    cin >> car1.price;
+    cout<<"enter the man.F year:"<<endl;
+    cin >>car1.year;
+    
+    cin.ignore();// buffer values will be ignored
+    
+    
+    car car2; // creating an object of the 
+    cout <<" enter the brand name:" <<endl;
+    // cin >> car1.brand;
+    getline (cin,car2. brand);
+    cout <<"enter the model name:"<<endl;
+    getline (cin,car2. model);
+    cout <<" enter the price:"<<endl;
+    cin >> car2.price;
+    cout<<"enter the man.F year:"<<endl;
+    cin >>car2.year;
+    car1.display();
+    car2.display();
+    
+    
+    
+    return 0;
+}
+
+
+
+
+***********************************************************
+
+#include <iostream>
+#include <string>
+using namespace std;
+    
+class Teacher
+{
+    private:
+    string Name;
+    string Subject;
+    int Experience;
+    char gender;
+    
+    public:
+    //Function to set teacher details
+    void setDetails(string n, string s, int exp,char g)
+    {
+        Name = n;
+        Subject = s;
+        Experience = exp;
+        gender = g;
+    }    
+    // Function to display teacher details
+    void displayDetails() {
+        
+    
+        cout << "Teacher Name:"<<Name<<endl;
+        cout << "Subject:"<<Subject<<endl;
+        cout << "Years Of Teaching Experience:"<<Experience<<endl;
+        cout << "Gender:" << gender <<endl;
+    }
+    
+};    
+
+int main()
+{
+    
+    // create two teacher objects
+    Teacher t1,t2;
+    
+    //Assign values to first teacher
+    t1. setDetails("GOWTHAM","MATHEMATICS",10,'M');
+      //Assign values to second teacher
+      t2. setDetails("TEJA","ENGLISH",12,'M');
+      
+      //Display details
+      cout << "Teacher 1 Details:";
+      t1.displayDetails();
+      
+      
+     cout << "Teacher 2 Details:";
+      t2.displayDetails();
+      
+    
+    
+    return 0;
+}
+    
+**********************************************************************
+
+
+
+
+#include <iostream>
+#include <string>
+using namespace std;
+    
+class Teacher
+{
+    // Data members
+    private:
+    string Name;
+    string Subject;
+    int year;
+    
+    public:
+    //Function to set teacher details
+    void setDetail(string tname, string tsubject, int tyears)
+    {
+        Name = tname;
+        Subject = tsubject;
+        year = tyears;
+   }    
+    // member function
+    void display() 
+    {
+        cout << " Name :"<<Name
+         << " Subject :"<<Subject
+         << " Year :"<<year<<endl;
+    }
+    
+};    
+
+int main()
+{
+    // create two object
+    Teacher t1,t2,t3;
+    
+    //Assign values to object
+    /*t1.name = "Goutham";
+    t1.subject = "Mathematics";
+    t1.year = 8;*/
+    
+    t1.setDetail(" Goutham "," Mathematics ",8);
+    t2.setDetail(" Teja "," English ",12);
+    t3.setDetail(" Hemanth "," physics ",14);
+    =
+    t1.display();
+    t2.display();
+    t3.display();
+    
+      
+    
+    
+    return 0;
+}
+***************************************************
+
+
+
+#include <iostream>
+using namespace std;
+
+class Car {
+    public :
+    string make;
+    string model ;
+    int year ;
+    
+    //Default constructor (no parameter)
+    Car()
+    {
+         make = "BENZ";
+         model = "Xo8"; 
+         year = 2;
+         
+}
+
+void displayinfo(){
+    cout << year << " "<<make<<" "<<model<<endl;
+    
+}
+};
+
+int main() 
+{
+ //creating an object default constructor 
+ Car myCar;
+ //display the information 
+myCar.displayinfo();
+
+return 0;
+}
+********************************************************
+
+
+#include <iostream>
+using namespace std;
+
+class Teacher
+{
+    public :
+    string name;
+    string Department;
+    string Experience;
+    double Salary;
+    
+    // constructor
+    Teacher()
+    {
+        cout << "I am a default constructor"<<endl;
+    }
+    void displayinfo()
+    {
+        cout << "Teacher name :"<<name<<endl;
+        cout << "Department :"<<name<<endl;
+        cout << "Experience :"<<name<<endl;
+        cout << "Salary:"<<name<<endl;
+    }
+};  
+    
+    int main()
+    {
+        Teacher T1; // create an object
+        return 0;
+    
+    }
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L
